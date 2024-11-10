@@ -1,6 +1,6 @@
 # DIO
 
-## Desafio: Conversão de escalas termométricas
+## Formação Go Developer
 ---
 
-Criando um programa em GO para a conversão de escalas termométricas
+Resolução dos exercicios do curso de Formação Go Developer da DIO
